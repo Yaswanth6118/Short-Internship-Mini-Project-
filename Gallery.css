@@ -1,0 +1,38 @@
+
+       
+.a{
+    padding-bottom: 10px;
+    padding-left: 90px;
+    margin-right: 120px;
+    height: 120px;
+   
+  }
+  
+  nav a{
+    text-decoration: none;
+  }
+  
+  .d{
+     margin-right: 10px;
+     background-color: red;
+     padding-left: 150px;
+     font-size: 21px;
+     -webkit-text-fill-color: rgb(232, 235, 237);
+     
+  }
+
+ .kk{
+     border: 2px solid black; 
+     padding-bottom: 80px;
+     margin-top: 50px;
+     height: 590px;
+     width: 1200px;
+ }
+ .kk1{
+     border: 2px solid black;
+     height: 350px;
+     width: 600px;
+     margin-left: 480px;
+     margin-top: 120px;
+
+ }

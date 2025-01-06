@@ -1,0 +1,72 @@
+
+.a{
+    background-color: red;
+    
+    height: 120px;
+    
+}
+.b{
+  padding-left: 350px;
+}
+.bg3{
+background-image: url('media/logitics\ bg\ 123.png');
+ background-size: 100% 100%;
+ background-repeat: no-repeat;
+}
+
+.e{                                                                            
+    border: 1px solid rgb(245, 241, 241);
+    background-color: rgb(100, 99, 99);
+    border-radius: 30px;
+    margin-left: 150px;
+    margin-top: 10px;
+    height: 60px;
+    width: 1200px;
+    padding-left: 300px; 
+    padding-top: 10px;
+   color: whitesmoke;
+
+
+}
+
+.bg6{
+padding-left: 70px;
+}
+
+*{
+  margin: o;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container{
+    max-width: 4000px;
+   
+    margin: auto;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 0px;
+}
+
+.ul{
+
+    list-style: none;
+   
+}
+
+.footer{
+    background-color: rgb(193, 191, 191);
+    padding: 0px 0;
+}
+.footer-col{
+    width: auto;
+    padding: 0 20px;
+    padding-top: 20px;
+    padding-left: 60px;
+}
+
+
+

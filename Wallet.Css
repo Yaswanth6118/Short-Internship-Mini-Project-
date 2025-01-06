@@ -1,0 +1,32 @@
+
+.a{
+  
+  padding-bottom: 10px;
+  padding-left: 90px;
+  margin-right: 120px;
+  height: 120px;
+}
+
+nav a{
+   text-decoration: none;
+ }
+
+.d{
+   margin-right: 10px;
+   background-color: red;
+   padding-left: 150px;
+   font-size: 21px;
+   -webkit-text-fill-color: rgb(232, 235, 237);
+   
+}
+.c{
+   background-image: url('media/body-bg.jpg');
+   background-repeat: no;
+   height: 500px;
+   width: 1835x;
+   
+   
+  
+}
+
+

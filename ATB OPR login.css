@@ -1,0 +1,32 @@
+
+.a{
+  
+   padding-bottom: 10px;
+   padding-left: 90px;
+   margin-right: 120px;
+   height: 120px;
+ }
+ nav a{
+   text-decoration: none;
+ }
+ 
+ .d{
+    margin-right: 10px;
+    background-color: red;
+    padding-left: 150px;
+    font-size: 21px;
+    -webkit-text-fill-color: rgb(232, 235, 237);
+ }
+  .f1{
+     padding-top: 30px;
+     padding-left: 30px;
+  
+  }
+  .f2{
+     border: 1px solid black;
+     height: 600px;
+     width: 1450px;
+     margin-left: 10px;
+     margin-top: 10px;
+     
+  }
